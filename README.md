@@ -14,7 +14,7 @@ Estudante do **5º semestre de Análise e Desenvolvimento de Sistemas** (Uniasse
 Foco total em **Back-End**, com entregas reais como autônomo PJ/MEI desde 2024.  
 
 Apaixonado por criar APIs escaláveis, automações e sistemas que resolvem problemas de verdade.  
-Atualmente desenvolvendo projetos full stack e buscando minha primeira oportunidade de estágio para crescer em equipe ágil.
+Atualmente desenvolvendo projetos full stack e buscando minha primeira oportunidade de estágio para crescer em equipe.
 
 ---
 
